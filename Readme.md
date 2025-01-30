@@ -4,8 +4,6 @@
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/jCk8c5_Q4J0AAAAC/hacker.gif">
     
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Vinod123456183&label=Profile%20views&color=0e75b6&style=flat" alt="Vinod123456183" /> </p>
-
  - 🌱 I’m currently learning **Backend Development**
 - 👨‍💻 All of my projects are available at [Portfolio](https://capable-griffin-321a17.netlify.app/)
 - 📫 How to reach me **[LinkTree](https://linktr.ee/vinod___1)**
@@ -55,23 +53,27 @@
 
 
 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Vinod123456183" alt="GitHub Profile Trophy" />
+  </a>
+</div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vinod123456183&label=Profile%20views&color=0e75b6&style=flat" alt="Vinod123456183" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Vinod123456183" alt="Vinod123456183" /></a> </p>
-<p align="left">
+
+<p align="center">
+  <img src="https://github.com/Vinod123456183/Vinod123456183/blob/output/github-snake-dark.svg" alt="snake gif">
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinod123456183&show_icons=true&locale=en&layout=compact" alt="Vinod123456183" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vinod123456183&show_icons=true&locale=en" alt="Vinod123456183" /></p>
+
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinod123456183&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Vinod123456183&show_icons=true&locale=en" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=vinod123456183&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
+</div>
+
+
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinod123456183&" alt="Vinod123456183" /></p> -->
-
-
-
-
-
-
-![snake gif](https://github.com/Vinod123456183/Vinod123456183/blob/output/github-contribution-grid-snake.svg)
-
-
-
-

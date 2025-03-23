@@ -1,7 +1,9 @@
-![logo](https://github.com/Vinod123456183/Vinod123456183/blob/main/github-header-image.png)
 <h1 align="left">Hi 👋, I'm Vinod Singh Barti</h1>
 <h3 align="left">A passionate Software Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/jCk8c5_Q4J0AAAAC/hacker.gif">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=vinod123456183&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </p>
     
 
  - 🌱 I’m currently learning **Backend Development**
@@ -70,9 +72,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinod123456183&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     <img src="https://github-readme-stats.vercel.app/api?username=Vinod123456183&show_icons=true&locale=en" alt="GitHub Stats" />
   </p>
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=vinod123456183&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </p>
+
 </div>
 
 

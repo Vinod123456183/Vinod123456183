@@ -321,7 +321,7 @@
   <summary><strong>🏢Company : Forage ✨</strong></summary>
   <br>
   
-  - 🌐 **MERN Stack Developer Program**  
+  - 🌐 **Cyber Security Program**  
     - 🏷️ Major: Cyber Security  
     - 🧪 Minor: Basics Of Cyber Security    
 

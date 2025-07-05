@@ -74,7 +74,7 @@
     <!-- Image Gallery -->
     <div style="flex: 1; min-width: 280px;">
       <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-        <img src="https://photos.google.com/photo/AF1QipOeOOzfFzRWJvDbUcvxH9UM9RVeZmEoif6efAqs" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/InternShip-Shadow-Fox/Screenshot%202025-06-14%20041901.png" 
           alt="Screenshot 1"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
@@ -115,12 +115,11 @@
     </div>
     <div style="flex: 1; min-width: 280px;">
       <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-        <img src="https://i.ibb.co/27MmZ9zG/Screenshot-2025-06-14-041735.png" alt="Screenshot-2025-06-14-041735" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/Capable%20Gr/Screenshot%202025-06-14%20041735.png" alt="Screenshot-2025-06-14-041735" 
           alt="Screenshot 01"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
-        <img src="https://github.com/Vinod123456183/Coding_Resource/raw/main/Projects%20Images/Capable%20Gr/Screenshot%202025-06-14%20041841.png
-" alt="Img 3" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/Capable%20Gr/Screenshot%202025-06-14%20041806.png" alt="Img 3" 
           alt="Screenshot 2"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />

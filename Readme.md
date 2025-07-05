@@ -119,7 +119,8 @@
           alt="Screenshot 01"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
-        <img src="https://i.ibb.co/27MmZ9zG/Screenshot-2025-06-14-041735.png" alt="Screenshot-2025-06-14-041735" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/raw/main/Projects%20Images/Capable%20Gr/Screenshot%202025-06-14%20041841.png
+" alt="Img 3" 
           alt="Screenshot 2"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />

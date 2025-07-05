@@ -115,7 +115,7 @@
     </div>
     <div style="flex: 1; min-width: 280px;">
       <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-        <img src="https://photos.google.com/photo/AF1QipOeOOzfFzRWJvDbUcvxH9UM9RVeZmEoif6efAqs" 
+        <img src="https://ibb.co/Y7dY0C5H" 
           alt="Screenshot 01"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />

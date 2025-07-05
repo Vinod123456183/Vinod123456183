@@ -115,11 +115,11 @@
     </div>
     <div style="flex: 1; min-width: 280px;">
       <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-        <img src="https://ibb.co/Y7dY0C5H" 
+        <img src="https://i.ibb.co/27MmZ9zG/Screenshot-2025-06-14-041735.png" 
           alt="Screenshot 01"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
-        <img src="https://photos.google.com/photo/AF1QipOeOOzfFzRWJvDbUcvxH9UM9RVeZmEoif6efAqs" 
+        <img src="https://i.ibb.co/27MmZ9zG/Screenshot-2025-06-14-041735.png" 
           alt="Screenshot 2"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />

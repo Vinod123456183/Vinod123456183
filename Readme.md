@@ -74,7 +74,7 @@
     <!-- Image Gallery -->
     <div style="flex: 1; min-width: 280px;">
       <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/InternShip-Shadow-Fox/Screenshot%202025-06-14%20060338.png" 
+        <img src="https://photos.google.com/photo/AF1QipOeOOzfFzRWJvDbUcvxH9UM9RVeZmEoif6efAqs" 
           alt="Screenshot 1"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />

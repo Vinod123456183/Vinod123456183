@@ -354,6 +354,49 @@
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
 
 
+
+
+
+
+  <details>
+  <summary><strong>📡 Virtual R Website ✨</strong></summary>
+  <br>
+
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
+    <!-- Info Section -->
+    <div style="flex: 1; min-width: 250px;">
+      <ul>
+        <li>🧰 <strong>Tech Stack:</strong> React-JS ⚛️, Tailwind CSS 💨🎨 </li>
+        <li>📆 <strong>Created On:</strong> 12 Novemeber 2024 🗓️</li>
+        <li>🌐 <strong>Live Demo:</strong> <a href="https://prismatic-crepe-9b5c6f.netlify.app/" target="_blank">Click Here 🔗</a></li>
+        <li>📁 <strong>GitHub Repo:</strong> <a href="https://github.com/Vinod123456183/Ready_TO_Deploy_webDP/tree/main/Project-2-VirtualR-complietab/My-Code" target="_blank">Github Repository 💾</a></li>
+        <li>⏳ <strong>Status:</strong> Completed ✅✨</li> 
+      </ul>
+    </div>
+    <!-- Image Gallery -->
+    <div style="flex: 1; min-width: 280px;">
+      <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Virtual-R-My-Code-Practice/01.png" 
+          alt="Screenshot 01"  
+          style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
+        />
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Virtual-R-My-Code-Practice/02.png" 
+          alt="Screenshot 02"  
+          style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
+        />
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Virtual-R-My-Code-Practice/03.png" 
+          alt="Screenshot 03"  
+          style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
+        />
+      </div>
+    </div>
+
+  </div>
+</details>
+
+
+
+
 <details>
   <summary><strong>📝 Cofee Website App ✨</strong></summary>
   <br>
@@ -391,6 +434,7 @@
 
 
 
+ 
 
 
   <details>

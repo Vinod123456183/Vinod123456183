@@ -74,15 +74,15 @@
     <!-- Image Gallery -->
     <div style="flex: 1; min-width: 280px;">
       <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/InternShip-Shadow-Fox/Img%202025-06-14%20041901.png" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/InternShip-Shadow-Fox/Screenshot%202025-06-14%20041901.png" 
           alt="Img 1"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/InternShip-Shadow-Fox/Img%202025-06-14%20060324.png" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/InternShip-Shadow-Fox/Screenshot%202025-06-14%20060338.png" 
           alt="Img 2"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/InternShip-Shadow-Fox/Img%202025-06-14%20060350.png" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/InternShip-Shadow-Fox/Screenshot%202025-06-14%20041927.png" 
           alt="Img 3"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
@@ -115,15 +115,15 @@
     </div>
     <div style="flex: 1; min-width: 280px;">
       <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/Capable%20Gr/Img%202025-06-14%20041735.png" alt="Screenshot-2025-06-14-041735" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/Capable%20Gr/Screenshot%202025-06-14%20041735.png" alt="Screenshot-2025-06-14-041735" 
           alt="Img 01"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/Capable%20Gr/Img%202025-06-14%20041806.png" alt="Img 3" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/Capable%20Gr/Screenshot%202025-06-14%20041806.png" alt="Img 3" 
           alt="Img 2"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/Capable%20Gr/Img%202025-06-14%20041841.png" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/Capable%20Gr/Screenshot%202025-06-14%20041841.png" 
           alt="Img 3"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
@@ -186,15 +186,15 @@
     <!-- Image Gallery -->
     <div style="flex: 1; min-width: 280px;">
       <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/Flipkart/Img%202025-06-14%20041532.png" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/Flipkart/Screenshot%202025-06-14%20041532.png" 
           alt="Img 1"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/Flipkart/Img%202025-06-14%20041701.png" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/Flipkart/Screenshot%202025-06-14%20041701.png" 
           alt="Img 2"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/Flipkart/Img%202025-06-14%20041622.png" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/Flipkart/Screenshot%202025-06-14%20041622.png" 
           alt="Img 3"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
@@ -222,15 +222,15 @@
     <!-- Image Gallery -->
     <div style="flex: 1; min-width: 280px;">
       <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/Online%20Clothes/Img%202025-06-14%20041958.png" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/Online%20Clothes/Screenshot%202025-06-14%20041958.png" 
           alt="Img 1"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/Online%20Clothes/Img%202025-06-14%20042017.png" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/Online%20Clothes/Screenshot%202025-06-14%20042017.png" 
           alt="Img 2"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/Online%20Clothes/Img%202025-06-14%20042032.png" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/Online%20Clothes/Screenshot%202025-06-14%20042032.png" 
           alt="Img 3"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
@@ -258,16 +258,16 @@
     <!-- Image Gallery -->
     <div style="flex: 1; min-width: 280px;">
       <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/CRUD/Img%202025-06-14%20051355.png" 
-          alt="Img 1"  
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/CRUD/Screenshot%202025-06-14%20051355.png" 
+          alt="Screenshot 1"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/CRUD/Img%202025-06-14%20051405.png" 
-          alt="Img 2"  
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/CRUD/Screenshot%202025-06-14%20051405.png" 
+          alt="Screenshot 2"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/CRUD/Img%202025-06-14%20051418.png" 
-          alt="Img 3"  
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/CRUD/Screenshot%202025-06-14%20051418.png" 
+          alt="Screenshot 3"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
       </div>
@@ -290,7 +290,7 @@
   <details>
     <summary>📄 View Certificate</summary>
     <div style="display: flex; justify-content: center;">
-      <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Udemy%20Certifications/Backend%20Dom/Img%202025-06-14%20062408.png" width="400" style="border-radius: 10px;" />
+      <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Udemy%20Certifications/Backend%20Dom/Screenshot%202025-06-14%20062408.png" width="400" style="border-radius: 10px;" />
     </div>
   </details>
 </details>
@@ -329,8 +329,8 @@
     <summary>📄 View Certificates :</summary>
     <br>
     <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-      <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Udemy%20Certifications/Forage/Img%202025-06-14%20125322.png" width="300" style="border-radius: 10px;" />
-      <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Udemy%20Certifications/Forage/Img%202025-06-14%20125348.png" width="300" style="border-radius: 10px;" />
+      <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Udemy%20Certifications/Forage/Screenshot%202025-06-14%20125322.png" width="300" style="border-radius: 10px;" />
+      <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Udemy%20Certifications/Forage/Screenshot%202025-06-14%20125348.png" width="300" style="border-radius: 10px;" />
     </div>
   </details>
 </details>
@@ -358,33 +358,39 @@
 
 
 
+
+
+
+
+
+
   <details>
-  <summary><strong>📡 Virtual R Website ✨</strong></summary>
+  <summary><strong>📡 Uttarakhand Tourism Website Using HTML+CSS ✨</strong></summary>
   <br>
 
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
     <!-- Info Section -->
     <div style="flex: 1; min-width: 250px;">
       <ul>
-        <li>🧰 <strong>Tech Stack:</strong> React-JS ⚛️, Tailwind CSS 💨🎨 </li>
-        <li>📆 <strong>Created On:</strong> 12 Novemeber 2024 🗓️</li>
-        <li>🌐 <strong>Live Demo:</strong> <a href="https://prismatic-crepe-9b5c6f.netlify.app/" target="_blank">Click Here 🔗</a></li>
-        <li>📁 <strong>GitHub Repo:</strong> <a href="https://github.com/Vinod123456183/Ready_TO_Deploy_webDP/tree/main/Project-2-VirtualR-complietab/My-Code" target="_blank">Github Repository 💾</a></li>
+        <li>🧰 <strong>Tech Stack:</strong>HTML 💨🎨, CSS 💨🎨, BootStrap💨🎨 </li>
+        <li>📆 <strong>Created On:</strong> 10 June 2023 🗓️</li>
+        <li>🌐 <strong>Live Demo:</strong> <a href="https://genuine-peony-1d0d25.netlify.app/" target="_blank">Click Here 🔗</a></li>
+        <li>📁 <strong>GitHub Repo:</strong> <a href="https://github.com/Vinod123456183/Mini-Project-1/tree/main/Uttarakhand(WEB)-api" target="_blank">Github Repository 💾</a></li>
         <li>⏳ <strong>Status:</strong> Completed ✅✨</li> 
       </ul>
     </div>
     <!-- Image Gallery -->
     <div style="flex: 1; min-width: 280px;">
       <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Virtual-R-My-Code-Practice/01.png" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Uttarakhand%20Tourism%20Website(Project%20-%20%201)/1.png" 
           alt="Img 01"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Virtual-R-My-Code-Practice/02.png" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Uttarakhand%20Tourism%20Website(Project%20-%20%201)/2.png" 
           alt="Img 02"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Virtual-R-My-Code-Practice/03.png" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Uttarakhand%20Tourism%20Website(Project%20-%20%201)/3.png" 
           alt="Img 03"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
@@ -393,6 +399,53 @@
 
   </div>
 </details>
+
+
+
+
+
+
+
+
+  <details>
+  <summary><strong>📡 Profile Card Using HTML+CSS ✨</strong></summary>
+  <br>
+
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
+    <!-- Info Section -->
+    <div style="flex: 1; min-width: 250px;">
+      <ul>
+        <li>🧰 <strong>Tech Stack:</strong>HTML 💨🎨, CSS 💨🎨, BootStrap💨🎨 </li>
+        <li>📆 <strong>Created On:</strong> 8 Feb 2023 🗓️</li>
+        <li>🌐 <strong>Live Demo:</strong> <a href="https://mellifluous-alpaca-b077d9.netlify.app/" target="_blank">Click Here 🔗</a></li>
+        <li>📁 <strong>GitHub Repo:</strong> <a href="https://github.com/Vinod123456183/Mini-Project-1/tree/main/Project%20(Card-1)-api" target="_blank">Github Repository 💾</a></li>
+        <li>⏳ <strong>Status:</strong> Completed ✅✨</li> 
+      </ul>
+    </div>
+    <!-- Image Gallery -->
+    <div style="flex: 1; min-width: 280px;">
+      <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Profile-Card(Project%20-%202)/1.png" 
+          alt="Img 01"  
+          style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
+        />
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Profile-Card(Project%20-%202)/3.png" 
+          alt="Img 02"  
+          style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
+        />
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Profile-Card(Project%20-%202)/2.png" 
+          alt="Img 03"  
+          style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
+        />
+      </div>
+    </div>
+
+  </div>
+</details>
+
+
+
+
 
 
 
@@ -415,15 +468,15 @@
     <!-- Image Gallery -->
     <div style="flex: 1; min-width: 280px;">
       <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Basic%20Website/Img%202025-06-14%20042641.png" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Basic%20Website/Screenshot%202025-06-14%20042641.png" 
           alt="Img 1"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Basic%20Website/Img%202025-06-14%20042652.png" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Basic%20Website/Screenshot%202025-06-14%20042652.png" 
           alt="Img 2"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Basic%20Website/Img%202025-06-14%20042715.png" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Basic%20Website/Screenshot%202025-06-14%20042715.png" 
           alt="Img 3"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
@@ -433,10 +486,57 @@
 </details>
 
 
+ 
 
 
 
 
+
+ 
+
+
+  <details>
+  <summary><strong>📡 Basic  Website App ✨</strong></summary>
+  <br>
+
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
+    <!-- Info Section -->
+    <div style="flex: 1; min-width: 250px;">
+      <ul>
+        <li>🧰 <strong>Tech Stack:</strong> React ⚛️, Tailwind CSS 💨, MUI 🎨 </li>
+        <li>📆 <strong>Created On:</strong> 12 December 2024 🗓️</li>
+        <li>🌐 <strong>Live Demo:</strong> <a href="https://profound-llama-d881be.netlify.app/" target="_blank">Click Here 🔗</a></li>
+        <li>📁 <strong>GitHub Repo:</strong> <a href="https://profound-llama-d881be.netlify.app/" target="_blank">Github Repository 💾</a></li>
+        <li>⏳ <strong>Status:</strong> Completed ✅✨</li> 
+      </ul>
+    </div>
+    <!-- Image Gallery -->
+    <div style="flex: 1; min-width: 280px;">
+      <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Jaggnath%20Google/Screenshot%202025-06-14%20042732.png" 
+          alt="Img 1"  
+          style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
+        />
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Jaggnath%20Google/Screenshot%202025-06-14%20042743.png" 
+          alt="Img 2"  
+          style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
+        />
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Jaggnath%20Google/Screenshot%202025-06-14%20042758.png" 
+          alt="Img 3"  
+          style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
+        />
+      </div>
+    </div>
+
+  </div>
+</details>
+
+
+
+
+
+
+ 
 
 <details>
   <summary><strong>📝 Burger King Foodie ✨</strong></summary>
@@ -485,42 +585,34 @@
 
 
 
-
-
-
-
-
- 
-
-
   <details>
-  <summary><strong>📡 Basic  Website App ✨</strong></summary>
+  <summary><strong>📡 Virtual R Website ✨</strong></summary>
   <br>
 
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
     <!-- Info Section -->
     <div style="flex: 1; min-width: 250px;">
       <ul>
-        <li>🧰 <strong>Tech Stack:</strong> React ⚛️, Tailwind CSS 💨, MUI 🎨 </li>
-        <li>📆 <strong>Created On:</strong> 12 December 2024 🗓️</li>
-        <li>🌐 <strong>Live Demo:</strong> <a href="https://profound-llama-d881be.netlify.app/" target="_blank">Click Here 🔗</a></li>
-        <li>📁 <strong>GitHub Repo:</strong> <a href="https://profound-llama-d881be.netlify.app/" target="_blank">Github Repository 💾</a></li>
+        <li>🧰 <strong>Tech Stack:</strong> React-JS ⚛️, Tailwind CSS 💨🎨 </li>
+        <li>📆 <strong>Created On:</strong> 12 Novemeber 2024 🗓️</li>
+        <li>🌐 <strong>Live Demo:</strong> <a href="https://prismatic-crepe-9b5c6f.netlify.app/" target="_blank">Click Here 🔗</a></li>
+        <li>📁 <strong>GitHub Repo:</strong> <a href="https://github.com/Vinod123456183/Ready_TO_Deploy_webDP/tree/main/Project-2-VirtualR-complietab/My-Code" target="_blank">Github Repository 💾</a></li>
         <li>⏳ <strong>Status:</strong> Completed ✅✨</li> 
       </ul>
     </div>
     <!-- Image Gallery -->
     <div style="flex: 1; min-width: 280px;">
       <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Jaggnath%20Google/Img%202025-06-14%20042732.png" 
-          alt="Img 1"  
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Virtual-R-My-Code-Practice/01.png" 
+          alt="Img 01"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Jaggnath%20Google/Img%202025-06-14%20042743.png" 
-          alt="Img 2"  
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Virtual-R-My-Code-Practice/02.png" 
+          alt="Img 02"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Jaggnath%20Google/Img%202025-06-14%20042758.png" 
-          alt="Img 3"  
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Virtual-R-My-Code-Practice/03.png" 
+          alt="Img 03"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
       </div>
@@ -528,6 +620,12 @@
 
   </div>
 </details>
+
+
+
+
+
+
 
 
 
@@ -549,15 +647,15 @@
     <!-- Image Gallery -->
     <div style="flex: 1; min-width: 280px;">
       <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Food%20Web/Img%202025-06-14%20042813.png" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Food%20Web/Screenshot%202025-06-14%20042813.png" 
           alt="Img 1"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Food%20Web/Img%202025-06-14%20042823.png" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Food%20Web/Screenshot%202025-06-14%20042823.png" 
           alt="Img 2"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />
-        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Food%20Web/Img%202025-06-14%20042838.png" 
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Practice%20Project%20Images/Food%20Web/Screenshot%202025-06-14%20042838.png" 
           alt="Img 3"  
           style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
         />

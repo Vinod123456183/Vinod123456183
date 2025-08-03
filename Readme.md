@@ -329,6 +329,7 @@
     <summary>📄 View Certificates :</summary>
     <br>
     <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+      <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Udemy%20Certifications/Forage/Data_Analysis_With_GenAi__Forage.png" width="300" style="border-radius: 10px;" />
       <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Udemy%20Certifications/Forage/Screenshot%202025-06-14%20125322.png" width="300" style="border-radius: 10px;" />
       <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Udemy%20Certifications/Forage/Screenshot%202025-06-14%20125348.png" width="300" style="border-radius: 10px;" />
     </div>

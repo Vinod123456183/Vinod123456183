@@ -98,6 +98,50 @@
 ### 🚀 MERN Stack Projects
  
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+ 
+ 
+ 
+ 
+ 
+
+
+ <details>
+  <summary><strong>⚛️ My Simple Portfolio ✨</strong></summary>
+  <br>
+
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
+    <!-- Info Section -->
+    <div style="flex: 1; min-width: 250px;">
+      <ul>
+        <li>🛠️ <strong>Tech Stack :</strong> HTML ⚛️, Tailwind CSS 💨, MUI 🎨, Formspree ✉️</li>
+        <li>📅 <strong>Created On :</strong> 10 August 2025 📆</li>
+        <li>🌐 <strong>Live Demo :</strong> <a href="https://real-portfolio-wine.vercel.app/" target="_blank">Click Here 🔗</a></li>
+        <li>🔒 <strong>GitHub Repo :</strong> <a href="https://github.com/Vinod123456183/Real_Portfolio_" target="_blank">Private 🔐</a></li>
+        <li>✅ <strong>Status :</strong> Completed 🎯</li>
+      </ul>
+    </div>
+    <div style="flex: 1; min-width: 280px;">
+      <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/Real%20Portfolio%20Wine/One.png" 
+          alt="Img 01"  
+          style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
+        />
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/Real%20Portfolio%20Wine/Two.png" alt="Img 3" 
+          alt="Img 2"  
+          style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
+        />
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/Real%20Portfolio%20Wine/Three.png" 
+          alt="Img 3"  
+          style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
+        />
+      </div>
+    </div>
+  </div>
+</details>
+ 
+ 
+ 
+ 
  <details>
   <summary><strong>🌟 Best UI Portfolio ✨</strong></summary>
   <br>

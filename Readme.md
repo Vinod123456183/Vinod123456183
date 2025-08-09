@@ -57,7 +57,7 @@
 
 ### 🎓 Internship
 <details>
-  <summary><strong>📝 Shadow Fox Internship ✨</strong></summary>
+  <summary><strong>📝 Shadow Fox Internship ✨</strong>(Click To View)</summary>
   <br>
  
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
@@ -106,7 +106,7 @@
 
 
  <details>
-  <summary><strong>⚛️ My Simple Portfolio ✨</strong></summary>
+  <summary><strong>⚛️ My Simple Portfolio ✨</strong> (Click To View) </summary>
   <br>
 
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
@@ -143,7 +143,7 @@
  
  
  <details>
-  <summary><strong>🌟 Best UI Portfolio ✨</strong></summary>
+  <summary><strong>🌟 Best UI Portfolio ✨</strong>(Click To View)</summary>
   <br>
 
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
@@ -177,7 +177,7 @@
 </details>
 
  <details>
-  <summary><strong>💸 Expense Tracker App ✨</strong></summary>
+  <summary><strong>💸 Expense Tracker App ✨</strong>(Click To View)</summary>
   <br>
 
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
@@ -213,7 +213,7 @@
 </details>
 
  <details>
-  <summary><strong>🏬 Flipkart Clone  App ✨</strong></summary>
+  <summary><strong>🏬 Flipkart Clone  App ✨</strong>(Click To View)</summary>
   <br>
 
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
@@ -249,7 +249,7 @@
 </details>
 
  <details>
-  <summary><strong>👕 Clothes Website App ✨</strong></summary>
+  <summary><strong>👕 Clothes Website App ✨</strong>(Click To View)</summary>
   <br>
 
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
@@ -285,7 +285,7 @@
 </details>
 
 <details>
-  <summary><strong>📝 CRUD Operation TODO App ✨</strong></summary>
+  <summary><strong>📝 CRUD Operation TODO App ✨</strong>(Click To View)</summary>
   <br>
 
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
@@ -325,7 +325,7 @@
 ### 📜 MERN Stack Certifications 
  
 <details>
-  <summary><strong>🏬Company :  Shreiyans Coding School ✨</strong></summary>
+  <summary><strong>🏬Company :  Shreiyans Coding School ✨</strong>(Click To View)</summary>
   <br>
   
   - 🧠 **Backend Development Domination**  
@@ -340,7 +340,7 @@
 </details>
  
 <details>
-  <summary><strong>🏢Company : Udemy ✨</strong></summary>
+  <summary><strong>🏢Company : Udemy ✨</strong>(Click To View)</summary>
   <br>
   
   - 🌐 **MERN Stack Developer Program**  
@@ -362,7 +362,7 @@
 
 
 <details>
-  <summary><strong>🏢Company : Forage ✨</strong></summary>
+  <summary><strong>🏢Company : Forage ✨</strong>(Click To View)</summary>
   <br>
   
   - 🌐 **Cyber Security Program**  
@@ -410,7 +410,7 @@
 
 
   <details>
-  <summary><strong>📡 Uttarakhand Tourism Website Using HTML+CSS ✨</strong></summary>
+  <summary><strong>📡 Uttarakhand Tourism Website Using HTML+CSS ✨</strong>(Click To View)</summary>
   <br>
 
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
@@ -453,7 +453,7 @@
 
 
   <details>
-  <summary><strong>📡 Profile Card Using HTML+CSS ✨</strong></summary>
+  <summary><strong>📡 Profile Card Using HTML+CSS ✨</strong>(Click To View)</summary>
   <br>
 
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
@@ -496,7 +496,7 @@
 
 
 <details>
-  <summary><strong>📝 Cofee Website App ✨</strong></summary>
+  <summary><strong>📝 Cofee Website App ✨</strong>(Click To View)</summary>
   <br>
 
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
@@ -541,7 +541,7 @@
 
 
   <details>
-  <summary><strong>📡 Basic  Website App ✨</strong></summary>
+  <summary><strong>📡 Basic  Website App ✨</strong>(Click To View)</summary>
   <br>
 
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
@@ -584,7 +584,7 @@
  
 
 <details>
-  <summary><strong>📝 Burger King Foodie ✨</strong></summary>
+  <summary><strong>📝 Burger King Foodie ✨</strong>(Click To View)</summary>
   <br>
 
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
@@ -631,7 +631,7 @@
 
 
   <details>
-  <summary><strong>📡 Virtual R Website ✨</strong></summary>
+  <summary><strong>📡 Virtual R Website ✨</strong>(Click To View)</summary>
   <br>
 
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
@@ -675,7 +675,7 @@
 
 
   <details>
-  <summary><strong>🍕 Food Website App ✨</strong></summary>
+  <summary><strong>🍕 Food Website App ✨</strong>(Click To View)</summary>
   <br>
 
   <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">

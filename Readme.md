@@ -212,6 +212,55 @@
   </div>
 </details>
 
+
+
+
+
+
+
+
+ <details>
+  <summary><strong>💸 ObitradeView ✨</strong>(Click To View)</summary>
+  <br>
+
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
+    <!-- Info Section -->
+    <div style="flex: 1; min-width: 250px;">
+      <ul>
+        <li>🧰 <strong>Tech Stack:</strong> React ⚛️, Tailwind CSS 💨,  RestAPI 🟩,/li>
+        <li>📆 <strong>Created On:</strong> (28 Aug 2025 - 01 Sep 2025)🗓️</li>
+        <li>🌐 <strong>Live Demo:</strong> <a href="https://obi-trade-view.vercel.app/" target="_blank">Click Here 🔗</a></li>
+        <li>📁 <strong>GitHub Repo:</strong> <a href="https://github.com/Vinod123456183/ObiTradeView" target="_blank">Github Repository 💾</a></li>
+        <li>⏳ <strong>Status:</strong> Completed ✅ – More Features Coming Soon 🚧✨</li> 
+      </ul>
+    </div>
+    <!-- Image Gallery -->
+    <div style="flex: 1; min-width: 280px;">
+      <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/ObitradeView/1.png" 
+          alt="Img 1"  
+          style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
+        />
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/ObitradeView/2.png" 
+          alt="Img 2"  
+          style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
+        />
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Projects%20Images/ObitradeView/3.png" 
+          alt="Img 3"  
+          style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
+        />
+      </div>
+    </div>
+
+  </div>
+</details>
+
+
+
+
+
+
+
  <details>
   <summary><strong>🏬 Flipkart Clone  App ✨</strong>(Click To View)</summary>
   <br>

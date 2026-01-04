@@ -95,6 +95,87 @@
 
 
 
+
+
+
+### 🚀 Data Analysis Projects
+ 
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+ 
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+ <details>
+  <summary><strong>⚛️ Sales Analysis Excel DashBoard ✨</strong> (Click To View) </summary>
+  <br>
+
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
+    <!-- Info Section -->
+    <div style="flex: 1; min-width: 250px;">
+      <ul>
+        <li>🛠️ <strong>Tech Stack :</strong> MS Excel ⚛️, Pivot Tables 💨 🎨</li>
+        <li>📅 <strong>Created On :</strong> 24 December 2025 📆 - 27 December 2025 📆 </li>
+        <li>🌐 <strong>Live Demo :</strong> <a href="https://github.com/Vinod123456183/Data-Analysis-Projects/tree/main/Excel%20Projects/4__Sales_Excel_DashBoard_" target="_blank">Click Here 🔗</a></li>
+        <li>🔒 <strong>GitHub Repo :</strong> <a href="https://github.com/Vinod123456183/Data-Analysis-Projects/tree/main/Excel%20Projects/4__Sales_Excel_DashBoard_" target="_blank">GitHub 🔐</a></li>
+        <li>✅ <strong>Status :</strong> Completed 🎯</li>
+      </ul>
+    </div>
+    <div style="flex: 1; min-width: 280px;">
+      <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Data-Analysis-Projects/1-Sales-Analysis-Dashboard/MS%20Excel-2%20.png" 
+          alt="Img 01"  
+          style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
+        />
+      </div>
+    </div>
+  </div>
+</details>
+ 
+ 
+ 
+ 
+
+
+ <details>
+  <summary><strong>⚛️ Hopital Analysis Excel DashBoard ✨</strong> (Click To View) </summary>
+  <br>
+
+  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 20px;">
+    <!-- Info Section -->
+    <div style="flex: 1; min-width: 250px;">
+      <ul>
+        <li>🛠️ <strong>Tech Stack :</strong> MS Excel ⚛️, Pivot Tables 💨 🎨</li>
+        <li>📅 <strong>Created On :</strong> 21 December 2025 📆 - 23 December 2025 📆</li>
+        <li>🌐 <strong>Live Demo :</strong> <a href="https://github.com/Vinod123456183/Data-Analysis-Projects/tree/main/Excel%20Projects/2__Hospital_Analysis_DashBoard_" target="_blank">Click Here 🔗</a></li>
+        <li>🔒 <strong>GitHub Repo :</strong> <a href="https://github.com/Vinod123456183/Data-Analysis-Projects/tree/main/Excel%20Projects/2__Hospital_Analysis_DashBoard_" target="_blank">GitHub 🔐</a></li>
+        <li>✅ <strong>Status :</strong> Completed 🎯</li>
+      </ul>
+    </div>
+    <div style="flex: 1; min-width: 280px;">
+      <div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: center;">
+        <img src="https://github.com/Vinod123456183/Coding_Resource/blob/main/Data-Analysis-Projects/Hospital-Analysis-Dsahboard/MS-Excel-P-1.png" 
+          alt="Img 01"  
+          style="width: 30%; aspect-ratio: 16/9; border-radius: 10px; object-fit: cover;" 
+        />
+      </div>
+    </div>
+  </div>
+</details>
+
+
+---
+
+
 ### 🚀 MERN Stack Projects
  
 <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">

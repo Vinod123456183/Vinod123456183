@@ -1,10 +1,10 @@
 <h1 align="left">Hi Vro👋, I'm Vinod Singh Barti</h1>
 <h3 align="left">A passionate Software Developer from India</h3>
   
-<img align="right" alt="coding" width="340" src="https://media.tenor.com/jCk8c5_Q4J0AAAAC/hacker.gif">
+<!-- <img align="right" alt="coding" width="340" src="https://media.tenor.com/jCk8c5_Q4J0AAAAC/hacker.gif"> -->
 
 <p> 
-  <img src="https:// komarev.com/ghpvc/?username=vinod123456183&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=vinod123456183&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 - 🌱 I’m currently learning **Backend Development**  

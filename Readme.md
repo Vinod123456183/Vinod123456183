@@ -1,22 +1,28 @@
 <h1 align="left">Hi Vro👋, I'm Vinod Singh Barti</h1>
 <h3 align="left">A passionate Software Developer from India</h3>
   
-<!-- <img align="right" alt="coding" width="340" src="https://media.tenor.com/jCk8c5_Q4J0AAAAC/hacker.gif"> -->
-
-<p> 
-  <img src="https://komarev.com/ghpvc/?username=vinod123456183&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+ <img align="right" alt="coding" width="340" src="https://media.tenor.com/jCk8c5_Q4J0AAAAC/hacker.gif"> 
+ 
+ <p> 
+  <img src="https://komarev.com/ghpvc/?username=Vinod123456183&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 - 🌱 I’m currently learning **Backend Development**  
 - 👨‍💻 All of my projects are available at [Portfolio](https://real-portfolio-wine.vercel.app/)  
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/150unc_zlTSThdXE8Pt5h7qPploZb5Aiz/view?usp=drivesdk)
----
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1simOm2W_IK2RZbJIZT9B-hYBol8NT-CT/view?usp=drive_link)
+
+───────────────────────────────────────────
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/vinod-barti-339571268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://wa.me/919456541392" target="blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30" width="40" /></a>
   <!-- <a href="https://fb.com/vinodsingh.barti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a> -->
   <!-- <a href="https://www.instagram.com/v1n0d_0lx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a> -->
+  <a href="https://t.me/vinoood_12" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" height="30" width="40" /></a>
   <a href="https://medium.com/@vinodsinghbarti420" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/33_deeppak_33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/devilstriu5ho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
@@ -50,11 +56,19 @@
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/></a>
 </p>
 
-─────────────────────────    ─────────────────────────    ─────────────────────────     
+───────────────────────────────────────────────────────────────────────────     
  
 
 
 
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinod123456183&theme=tokyo-night&hide_border=true" />
+</p>
+
+───────────────────────────────────────────────────────────────────────────────────────── 
 
 ### 🎓 Internship
 <details>
@@ -776,14 +790,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vinod123456183&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vinod123456183&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---

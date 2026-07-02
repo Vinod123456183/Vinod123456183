@@ -23,7 +23,7 @@
        alt="Gmail"
        height="30"
        width="40" /></a>
-<a href="https://wa.me/919456541392" target="blank">
+<a href="https://wa.me/918439371949" target="blank">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="30" width="40" /></a>
   <!-- <a href="https://fb.com/vinodsingh.barti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a> -->
   <!-- <a href="https://www.instagram.com/v1n0d_0lx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a> -->
